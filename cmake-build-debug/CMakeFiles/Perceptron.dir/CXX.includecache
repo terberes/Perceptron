@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/terberes/ITProjects/C++/Perceptron/Perceptron.h
+vector
+-
+numeric
+-
+
+/Users/terberes/ITProjects/C++/Perceptron/SinglePerceptronNetwork.h
+Perceptron.h
+/Users/terberes/ITProjects/C++/Perceptron/Perceptron.h
+array
+-
+
+/Users/terberes/ITProjects/C++/Perceptron/main.cpp
+iostream
+-
+array
+-
+SinglePerceptronNetwork.h
+/Users/terberes/ITProjects/C++/Perceptron/SinglePerceptronNetwork.h
+
