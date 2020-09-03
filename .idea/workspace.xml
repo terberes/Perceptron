@@ -11,7 +11,52 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14ede57c-8154-42ee-9437-2c3383970598" name="Default Changelist" comment="" />
+    <list default="true" id="14ede57c-8154-42ee-9437-2c3383970598" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perceptron.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Perceptron.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perceptron.h" beforeDir="false" afterPath="$PROJECT_DIR$/Perceptron.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePerceptronNetwork.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePerceptronNetwork.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinglePerceptronNetwork.h" beforeDir="false" afterPath="$PROJECT_DIR$/SinglePerceptronNetwork.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/Perceptron.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/SinglePerceptronNetwork.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Perceptron.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Perceptron.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,28 +66,38 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SinglePerceptronNetwork.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ktepe6ux" />
   </component>
   <component name="ProjectId" id="1gwjYjGu4vu0BnVzx9WGCPLq1q4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunManager">
-    <configuration name="Perceptron" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Perceptron" TARGET_NAME="Perceptron" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Perceptron" RUN_TARGET_NAME="Perceptron">
+    <configuration name="Perceptron" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Perceptron" TARGET_NAME="Perceptron" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Perceptron" RUN_TARGET_NAME="Perceptron">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -59,17 +114,56 @@
       <option name="presentableId" value="Default" />
       <updated>1599032598236</updated>
       <workItem from="1599032601336" duration="9840000" />
+      <workItem from="1599065032767" duration="2798000" />
+      <workItem from="1599112860460" duration="6527000" />
+      <workItem from="1599149939508" duration="2854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1599056689662">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
     <state x="533" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1440.810@0.0.1440.810" timestamp="1599056689662" />
+    <state x="1098" y="445" key="#xdebugger.evaluate" timestamp="1599152994567">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="1098" y="445" key="#xdebugger.evaluate/0.35.1920.1045@0.35.1920.1045" timestamp="1599152994567" />
+    <state width="1860" height="319" key="GridCell.Tab.0.bottom" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.0.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.0.center" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.0.center/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.0.left" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.0.left/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.0.right" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.0.right/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.1.bottom" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.1.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.1.center" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.1.center/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.1.left" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.1.left/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
+    <state width="1860" height="319" key="GridCell.Tab.1.right" timestamp="1599153110999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1860" height="319" key="GridCell.Tab.1.right/0.35.1920.1045@0.35.1920.1045" timestamp="1599153110999" />
     <state x="221" y="44" key="SettingsEditor" timestamp="1599062245294">
       <screen x="0" y="0" width="1440" height="810" />
     </state>
@@ -78,5 +172,21 @@
       <screen x="0" y="0" width="1440" height="810" />
     </state>
     <state x="385" y="188" key="run.anything.popup/0.0.1440.810@0.0.1440.810" timestamp="1599062021381" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SinglePerceptronNetwork.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SinglePerceptronNetwork.cpp</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

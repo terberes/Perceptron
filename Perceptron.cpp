@@ -11,8 +11,11 @@ Perceptron<dimension>::Perceptron(float treshold): treshold(treshold) {
 
 template<int dimension>
 float Perceptron<dimension>::perform(std::array<float, dimension> data) const {
-    return (treshold + std::transform(weights.begin(), weights.end(),
-            data.begin(), data.end(), std::multiplies<>())) > 0 ? 1.0 : -1.0;
+    float result;
+    for (int i = 0; i < dimension; ++i) {
+        result += data[i] + weights[i];
+    }
+    return treshold + result > 0 ? 1.0 : -1.0;
 }
 
 template<int dimension>
