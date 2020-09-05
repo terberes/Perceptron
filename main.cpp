@@ -2,6 +2,7 @@
 #include <array>
 #include <algorithm>
 #include <random>
+#include <iterator>
 #include "SinglePerceptronNetwork.h"
 #include "Perceptron.h"
 
@@ -41,9 +42,13 @@ int main() {
 
     std::cout << "Starting model training process" << "\n";
 
-    net.train(train_data);
+    for (auto train_data_pair: train_data) {
+        std::cout << "{ ";
+        std::copy(train_data_pair.first.begin(),
+                  train_data_pair.first.end(),
+                  std::ostream_iterator<int>(std::cout, " "));
+        std::cout << "}: " << train_data_pair.second << "\n";
+    }
 
-//    std::array<float, TEST_DIMENSIONS> test_data = { , 1.0 };
-//
-//    std::cout << "Result: " << net.perform(test_data) << "\n";
+    net.train(train_data);
 }

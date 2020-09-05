@@ -27,7 +27,11 @@ train(std::vector< // vector of
             std::cout << "Actual result: " << result << "\n";
             for (int i = 0; i < dimension; ++i) {
                 newWeights[i] = oldWeights[i] + learning_step * (trainData.second - result) * trainData.first[i];
-                std::cout << i << " :: Changing old weight value : " << oldWeights[i] << " to " << newWeights[i] << "\n";
+                std::cout << "Using formula: " << newWeights[i] << " = " << oldWeights[i] << " + " <<
+                          learning_step << " * (" << trainData.second << " - " << result << ") * " << trainData.first[i]
+                          << "\n";
+                std::cout << i << " :: Changing old weight value : " << oldWeights[i] << " to " << newWeights[i]
+                          << "\n";
             }
             perceptron.setWeights(std::move(newWeights));
             if (result != trainData.second)
